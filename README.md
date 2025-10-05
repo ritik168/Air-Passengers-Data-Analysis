@@ -11,9 +11,9 @@ Passengers - Total number of passengers travelled on that particular month.
 Download link: https://www.kaggle.com/datasets/rakannimer/air-passengers
 
 # Libraries
-.pandas
-.matplotlib
-.seaborn
-.scikit-learn
-.statsmodels
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
 # Algorithms
