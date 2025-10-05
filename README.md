@@ -17,3 +17,4 @@ seaborn
 scikit-learn
 statsmodels
 # Algorithms
+. SARIMAX
