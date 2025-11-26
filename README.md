@@ -1,6 +1,6 @@
 # ✈️ Air Passengers Data Analysis - Time Series Analysis
 
-# Dataset Informtion
+#    Dataset Informtion
 This project is about studying the Air Passengers dataset.
 I used Python and Jupyter Notebook to understand how the number of passengers changes every month and every year.
 
@@ -51,5 +51,3 @@ Matplotlib
 
 Jupyter Notebook
 
-# Algorithms
-. SARIMAX
