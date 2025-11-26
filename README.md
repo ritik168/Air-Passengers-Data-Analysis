@@ -1,22 +1,55 @@
-# Air-Passengers Data - Time Series Analysis
+# ✈️ Air Passengers Data Analysis - Time Series Analysis
 
 # Dataset Informtion
+This project is about studying the Air Passengers dataset.
+I used Python and Jupyter Notebook to understand how the number of passengers changes every month and every year.
 
-The dataset provides monthly totals of a US airline passengers from 2023 to 2024. The objective is to forecast 24 months based on the historical data using ARIMA.
+# 📌 Business Problem
 
-# Attribute Information:
-Month - Month of the Year
-Passengers - Total number of passengers travelled on that particular month.
+Airlines need to know how many people will travel in the future.
+This helps them plan flights, manage staff, and set ticket prices.
 
-Download link: https://www.kaggle.com/datasets/rakannimer/air-passengers
+This project helps by finding:
 
-# Libraries
+How passenger numbers are growing
 
-pandas
-matplotlib
-seaborn
-scikit-learn
-statsmodels
+Which months have more passengers
+
+Which months have fewer passengers
+
+The long-term trend in air travel
+
+# Process of Analysing the Datasets
+
+Loaded the dataset
+
+Checked the data
+
+Made graphs and charts
+
+Found trends and seasonal patterns
+
+Explained the results in simple words
+
+# 📈 Outcomes of Analysis
+
+Passengers are increasing every year
+
+Some months have high travel (seasonal peak)
+
+Some months have low travel
+
+Useful for planning and forecasting
+
+# 🛠 Tools Used
+
+Python
+
+Pandas
+
+Matplotlib
+
+Jupyter Notebook
 
 # Algorithms
 . SARIMAX
