@@ -1,4 +1,5 @@
 # ✈️ Air Passengers Data Analysis - Time Series Analysis
+![Air Passengers](https://github.com/ritik168/Air-Passengers-Data-Analysis/blob/main/Airplane-HD-Wallpaper.jpg)
 
 #    Dataset Informtion
 This project is about studying the Air Passengers dataset.
